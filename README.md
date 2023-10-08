@@ -49,7 +49,7 @@ Demand of bikes depend on year, temp, workingday, windspeed, sep, sat, Light_sno
 - Matplotlib
 - sklearn
 - statsmodel
--  
+  
 ## Acknowledgements
 - This project was inspired by UpGrad IIITB Program as a case study for AI/ML Course
 
